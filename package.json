@@ -11,7 +11,7 @@
 		"license": "SEE LICENSE IN LICENSE.txt",
 		"icon": "icon.png",
 		"galleryBanner": {
-			"color": "#C80000",
+			"color": "#323232",
 			"theme": "dark"
 		},
 		"repository": {
