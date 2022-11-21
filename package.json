@@ -1,9 +1,23 @@
 {
     "name": "russ-monokai-extended",
     "displayName": "Russ Monokai Extended",
-    "description": "Russ's version of Monokai Extended",
-    "version": "0.0.1",
+    "description": "Russ's version of the Monokai Extended dark theme",
+    "version": "1.0.0",
     "publisher": "RussPitcher",
+		"author": {
+			"name": "Russ Pitcher"
+		},
+		"homepage": "https://github.com/RussPitcher/russ-monokai-extended/blob/main/README.md",
+		"license": "SEE LICENSE IN LICENSE.txt file",
+		"icon": "icon.png",
+		"galleryBanner": {
+			"color": "#C80000",
+			"theme": "dark"
+		},
+		"repository": {
+			"type": "git",
+			"url", "https://github.com/RussPitcher/russ-monokai-extended"
+		},
     "engines": {
         "vscode": "^1.16.0"
     },
