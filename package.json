@@ -1,0 +1,22 @@
+{
+    "name": "russ-monokai-extended",
+    "displayName": "Russ Monokai Extended",
+    "description": "Russ's version of Monokai Extended",
+    "version": "0.0.1",
+    "publisher": "RussPitcher",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Russ's Monokai extended",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Russ's Monokai extended-color-theme.json"
+            }
+        ]
+    }
+}
